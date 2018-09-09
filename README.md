@@ -9,4 +9,4 @@ vcfFile1 = "./Smaller.vcf"
 vcfFile2 = "./Larger.vcf"
 vcfOutFile ="./Diff.vcf"
 
-Script support -v parametr to be verbous
+Script support -v parametr to be verbous.
